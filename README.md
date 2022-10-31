@@ -1,69 +1,68 @@
-# Prise2son_2spi
+# Sound Recording sp33d
 
-**Ou comment faire une prise de son en autonomie pour les voix-off, les podcasts et ainsi de suite.**
+**On how to record voices with almost full autonomy, for voice over, podcast, etc.**
 
-Pré-requis : être dans le studio son et avoir quelqu'un qui parle dans la pièce en face. 
+Prerequisite : being in the sound studio, having someone talking in the record studio.
 
-## 1. Branchements
+## 1. Connection
 
-La carte son doit être branchée à l'ordi :
+The sound card must be connected to the computer :
 
 ![Carte son](./images/img1.jpg)
 
-Elle doit être allumée :
+it must be turned on :
 
 ![Carte son](./images/img2.jpg)
 
-Et il doit y avoir des trucs branchés dessus : 
+And there must be cables connected to it :
 
 ![Carte son](./images/img3.jpg)
 
-Pour régler le gain du micro (avoir un volume adéquat si la personne va crier dans le micro ou au contraire murmurer par exemple), c'est le premier potard à gauche sur la face de la carte son.
+To adjust the gain on the mic (to have an adequat volume if you are recording yellings or whisperings for example), you can turn the first potentiometer on the left on the front side of the sound card.
 
-
-Il faut également allumer les enceintes grâce au bouton derrière :
+You also need to turn on the speakers, with the button behind it :
 ![Enceintes](./images/img4.jpg)
 
-## 2. Réglages FL Studio
+## 2. Set up in FL Studio
 
-Ouvrir FL Studio.
+Open FL Studio.
 
-Ouvrir les `Audio Settings` dans la liste `Options`.
+Open `Audio Settings` in `Options`.
 
 ![Carte son](./images/capture2.png)
 
-Dans la liste `Device`, sélectionner notre carte son `Focusrite USB ASIO`.
+In the `Device` liste, select the sound card `Focusrite USB ASIO`.
 
 ![Carte son](./images/capture3.png)
 
-*Attention à bien prendre la Focusrite dans la partie `Asio Device` de la liste.*
+*Be careful of selecting the Focusrite in the `Asio Device` part of the list.*
 
-Voilà l'interface quand tout est bien connecté :
+Here's the interface when everything is well connected :
 
 ![Carte son](./images/capture4.png)
 
-## 3. Enregistrement
+## 3. Recording
 
-Cliquer sur l'icône micro en haut à droite.
+Click on the mic 🎙️ in the top right area.
 
 ![Carte son](./images/capture1.png)
 
-Choisir `Into Edison audio editor/recorder`.
+Choose `Into Edison audio editor/recorder`.
 
 ![Carte son](./images/capture5.png)
 
-Cliquer sur le bouton enregistrer ⏺️ pour commencer l'enregistrement.
+Click on the record button ⏺️ to start the recording.
 
 ![Carte son](./images/capture6.png)
 
-Le bouton enregistrer ⏺️ devient rouge, et on peux cliquer sur le bouton stop ⏹️ pour arrêter.
+The record button ⏺️ becomes red, and you can click on the stop button ⏹️ to stop the recording.
 
 ![Carte son](./images/capture7.png)
 
-Pour sauvegarder l'enregistrement, cliquer sur le bouton disquette 💾 et choisir `Save sample as`.
+To save the recording, click on the floppy disk button 💾 and choose `Save sample as`.
 
 ![Carte son](./images/capture9.png)
 
-Pour créer un nouvel enregistrement, cliquer sur le bouton disquette 💾 et choisir `New`.
+To create a new recording, click on the floppy disk button 💾 and choose `New`.
 
 ![Carte son](./images/capture8.png)# SoundRecording_sp33d
