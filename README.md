@@ -23,7 +23,47 @@ To adjust the gain on the mic (to have an adequat volume if you are recording ye
 You also need to turn on the speakers, with the button behind it :
 ![Enceintes](./images/img4.jpg)
 
-## 2. Set up in FL Studio
+## 2. Record with Reaper
+
+Open Reaper.
+
+// photo
+
+Click on "Still Evaluating".
+
+Create a new track with `Track` > `Insert new track`.
+
+![nouveau track](./images/screen1.png)
+
+To be able to record on the track, click on the record button ⏺️ on the track either in the track list on the top left, or on the bottom left in the mix control pannel.
+
+![nouveau track](./images/screen2.png)
+![nouveau track](./images/screen3.png)
+
+The sound level of the microphone is then shown in the meters.
+
+To record the sound from the mic on the track, click on the main record button ⏺️ and re-click to stop the recording.
+
+![nouveau track](./images/screen4.png)
+
+To crop the recording, you can either select the part of the recording to keep and right-click > `Crop project to selection`.
+Or you can remove parts of the recording by selecting them and right-click > `Remove contents of selection`.
+
+![nouveau track](./images/screen5.png)
+
+To export the recording, click on `File` > `Consolidate/Export tracks...` .
+
+![nouveau track](./images/screen6.png)
+
+Manage export settings :
+
+![nouveau track](./images/screen7.png)
+
+Choose the file format with `Consolidate to` (WAV, AIFF, MP3), and the location of the export with `Output consolidated files to directory:`.
+
+## 3. Record with FL Studio
+
+### Set up in FL Studio
 
 Open FL Studio.
 
@@ -41,7 +81,7 @@ Here's the interface when everything is well connected :
 
 ![Carte son](./images/capture4.png)
 
-## 3. Recording
+### Recording
 
 Click on the mic 🎙️ in the top right area.
 
