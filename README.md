@@ -116,3 +116,19 @@ To save the recording, click on the floppy disk button 💾 and choose `Save sam
 To create a new recording, click on the floppy disk button 💾 and choose `New`.
 
 ![Carte son](./images/capture8.png)# SoundRecording_sp33d
+
+## If you have an issue
+
+First, check if the cables are plugged in front of their color-coded inputs (with the sticker dots) :
+
+On the sound card :
+![carte son](./images/entree_focusrite.png)
+
+On the mics of the control and recording room :
+![carte son](./images/gommettes_mics.png)
+
+On the wall plugs in the control room :
+![carte son](./images/gomettes_regie.png)
+
+On the wall plugs in the recording room :
+![carte son](./images/gomettes_cabine.png)
