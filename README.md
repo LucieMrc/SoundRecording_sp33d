@@ -20,6 +20,16 @@ And there must be cables connected to it :
 
 To adjust the gain on the mic (to have an adequat volume if you are recording yellings or whisperings for example), you can turn the first potentiometer on the left on the front side of the sound card.
 
+![carte son](./images/entree_focusriteEN.png)
+
+<details><summary> The difference between gain and volume</summary>
+Gain is the amplification of the input signal (how much sound the mic get), and volume is the amplification of the output signal (how loud are the speakers).
+</details>
+
+You can increase or decrease the gain of the control room mic (which allows you to talk with the person in the recording room) or the gain of the recording room mic (the one you record), the volume of the monitoring speakers in the control room, as well as the volume of the recording room headphone. You can also adjust the volume of the second output if you use headphones in the control room.
+
+Be careful to lower the speakers volume if you use the control room mic to avoid larsen effects.
+
 You also need to turn on the speakers, with the button behind it :
 ![Enceintes](./images/img4.jpg)
 
