@@ -35,9 +35,11 @@ You also need to turn on the speakers, with the button behind it :
 
 ## 2. Record with Reaper
 
+Log in the computer with the ateliernum session.
+
 Open Reaper.
 
-// photo
+<!-- photo -->
 
 Click on "Still Evaluating".
 
@@ -51,6 +53,10 @@ To be able to record on the track, click on the record button ⏺️ on the trac
 ![nouveau track](./images/screen3.png)
 
 The sound level of the microphone is then shown in the meters.
+
+To change the input mic (control room mic or record room mic) that is being recorded in the track, click on the down arrow ⬇️ in the `in` button, and select `Input: Mono` > Left or Right depending on the one you want.
+
+![nouveau track](./images/capture10.png)
 
 To record the sound from the mic on the track, click on the main record button ⏺️ and re-click to stop the recording.
 
