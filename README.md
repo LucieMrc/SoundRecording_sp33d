@@ -54,7 +54,9 @@ To be able to record on the track, click on the record button ⏺️ on the trac
 
 The sound level of the microphone is then shown in the meters.
 
-To change the input mic (control room mic or record room mic) that is being recorded in the track, click on the down arrow ⬇️ in the `in` button, and select `Input: Mono` > Left or Right depending on the one you want.
+To change the input mic (control room mic or record room mic) that is being recorded in the track, click on the down arrow ⬇️ in the `in` button, and select `Input: Mono` > Left or Right (or input 1 or 2) depending on the one you want. Left or Input 1 is by default the sound from the control room mic, and Right or Input 2 is the sound from the record room mic.
+
+If the person in the record room hear themselves in the headphones while recording, it is because they hear the sound from the control room speakers coming in the control room mic. We can lower or turn off the speakers to avoid that.
 
 ![nouveau track](./images/capture10.png)
 
@@ -67,7 +69,9 @@ Or you can remove parts of the recording by selecting them and right-click > `Re
 
 ![nouveau track](./images/screen5.png)
 
-To export the recording, click on `File` > `Consolidate/Export tracks...` .
+To get the recording, it is saved automatically either on the Desktop or in the Documents of the computer, under the name of the track.
+
+To export the project, click on `File` > `Consolidate/Export tracks...` .
 
 ![nouveau track](./images/screen6.png)
 
